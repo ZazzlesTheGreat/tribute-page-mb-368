@@ -1,0 +1,164 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+  }
+  body {
+    background-image: url(https://tinypic.host/images/2025/02/25/image-5.png);
+  }
+  p, figcaption {
+    font-family: "saira semi condensed", serif;
+  }
+  h1, h2, h4, h5{
+    font-family: "jockey one", serif;
+  }
+  h1 {
+  color: #0D163C;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;  
+  }
+  h2{
+  color: #0D163C;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align:center;
+  margin-bottom: 2%;
+  }
+  h5 {
+    padding: 1%;
+    font-size:16px;
+  }
+  h4 {
+   padding: 20px 28px;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .main {
+  border-radius: 20px;
+  border: 5px solid #334069;
+  background: #697799;
+   width: 60%;
+  height: 90%;
+  margin-top: 5%;
+  }
+  .title {
+   border-radius: 20px;
+  border: 3px solid #334069;
+  background: #A7B8D6;
+  width: 50%;
+  height: 72px;
+  text-align:center;
+  justify-content: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+  }
+
+  .img-div {
+  border-radius: 20px;
+  background: #562B35;
+  width: 40%;
+  padding:11px;
+  align-items:center;
+    max-width: 100%;
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+  }
+  .label1, .img-caption {
+    color: #FFF;
+    text-align:center;
+    margin-bottom: 2%;
+      font-size: 20px;
+  }
+  .tribute-info {
+   border-radius: 20px;
+  border: 3px solid #334069;
+  background: #A7B8D6;
+  width: 60%;
+  height: 70%;
+  padding: 2%; 
+  }
+  
+  .quote{
+    color: #0D163C;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+    padding: 20px 31px;
+  }
+   
+  .link {
+   color: #FFF;
+   font-size: 20px;
+  font-weight: 400;
+    text-align: center;
+    padding: 20px 31px;
+  }
+  a {
+   color: #FFF; 
+  }
+  .jockey-one-regular {
+    font-family: "Jockey One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .saira-semi-condensed-thin {
+    font-family: "Saira Semi Condensed", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .saira-semi-condensed-extralight {
+    font-family: "Saira Semi Condensed", serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .saira-semi-condensed-light {
+    font-family: "Saira Semi Condensed", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .saira-semi-condensed-regular {
+    font-family: "Saira Semi Condensed", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .saira-semi-condensed-medium {
+    font-family: "Saira Semi Condensed", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .saira-semi-condensed-semibold {
+    font-family: "Saira Semi Condensed", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .saira-semi-condensed-bold {
+    font-family: "Saira Semi Condensed", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .saira-semi-condensed-extrabold {
+    font-family: "Saira Semi Condensed", serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .saira-semi-condensed-black {
+    font-family: "Saira Semi Condensed", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
